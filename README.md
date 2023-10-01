@@ -1,5 +1,3 @@
-# PhotonDB ReadMe
-
 ## Overview
 
 PhotonDB is a simple Python library designed to manage a collection of JSON-like data structures, referred to as "cells", and provides functionalities for loading, querying, and saving these cells. This library is especially useful for scenarios where structured data needs to be efficiently stored, retrieved, and manipulated.
